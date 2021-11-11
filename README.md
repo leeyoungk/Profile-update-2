@@ -1,6 +1,6 @@
 # KhanhTruong-Portfolio-Updated
 
-Deployed Application:
+Deployed Application:https://leeyoungk.github.io/Profile-update-2/ 
 
 
 ## Description
